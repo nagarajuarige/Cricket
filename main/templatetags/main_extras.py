@@ -1,8 +1,3 @@
-'''
-Created on 03-Aug-2020
-
-@author: shankar
-'''
 from django import template
 from main.models import Team
 from django.shortcuts import get_object_or_404
